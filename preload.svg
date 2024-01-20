@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
-<svg id="eKkDHhzw8gv1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
-<style><![CDATA[
+<svg id="eKkDHhzw8gv1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<style>
+<![CDATA[
 #eKkDHhzw8gv2_to {animation: eKkDHhzw8gv2_to__to 3000ms linear infinite normal forwards}@keyframes eKkDHhzw8gv2_to__to { 0% {transform: translate(100px,100px)} 23.333333% {transform: translate(100px,93.5px)} 100% {transform: translate(100px,100px)}} #eKkDHhzw8gv3_tr {animation: eKkDHhzw8gv3_tr__tr 3000ms linear infinite normal forwards}@keyframes eKkDHhzw8gv3_tr__tr { 0% {transform: translate(100px,99.999999px) rotate(0deg)} 23.333333% {transform: translate(100px,99.999999px) rotate(0deg)} 100% {transform: translate(100px,99.999999px) rotate(90deg)}}
-]]></style>
+]]>
+</style>
 <g id="eKkDHhzw8gv2_to" transform="translate(100,100)"><g transform="translate(-100,-100)"><g id="eKkDHhzw8gv3_tr" transform="translate(100,99.999999) rotate(0)"><rect width="108.208026" height="108.208026" rx="29" ry="29" transform="scale(1.229114,1.229114) translate(-54.104013,-54.104012)" fill="#ff6207" stroke-width="0"/></g><text dx="0" dy="0" font-family="&quot;eKkDHhzw8gv1:::Montserrat&quot;" font-size="15" font-weight="700" transform="matrix(2.594246 0 0 2.267373 46.301199 110.146169)" stroke-width="0"><tspan y="0" font-weight="700" stroke-width="0"><![CDATA[
 LYNK
 ]]></tspan></text><text dx="0" dy="0" font-family="&quot;eKkDHhzw8gv1:::Montserrat&quot;" font-size="3" font-weight="700" transform="matrix(3 0 0 2.622 70.442695 120.675399)" stroke-width="0"><tspan y="0" font-weight="700" stroke-width="0"><![CDATA[
