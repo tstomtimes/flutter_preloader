@@ -13,10 +13,30 @@
 				<animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="2s" repeatCount="indefinite" />
 			</circle>
 		</g>
-		<text dx="0" dy="0" font-family="'eKkDHhzw8gv1:::Montserrat','sans-serif'" font-size="7.5" font-weight="700" transform="matrix(1.297123 0 0 1.133686 36.550599 53.073084)" stroke-width="0" fill="#ff6207">
+		<style>
+			.text1 {
+				font-family: 'eKkDHhzw8gv1:::Montserrat', 'sans-serif';
+				font-size: 7.5;
+				font-weight: 700;
+				transform: matrix(1.297123 0 0 1.133686 36.550599 53.073084);
+				stroke-width: 0;
+				fill: #ff6207;
+			}
+
+			.text2 {
+				font-family: 'eKkDHhzw8gv1:::Montserrat', 'sans-serif';
+				font-size: 1.5;
+				font-weight: 700;
+				transform: matrix(1.5 0 0 1.311 43.021347 55.537699);
+				stroke-width: 0;
+				fill: #ff6207;
+			}
+		</style>
+
+		<text class="text1">
 			<tspan y="0" font-weight="700" stroke-width="0"><![CDATA[LYNK]]></tspan>
 		</text>
-		<text dx="0" dy="0" font-family="'eKkDHhzw8gv1:::Montserrat','sans-serif'" font-size="1.5" font-weight="700" transform="matrix(1.5 0 0 1.311 43.021347 55.537699)" stroke-width="0">
+		<text class="text2">
 			<tspan y="0" font-weight="700" stroke-width="0" fill="#ff6207"><![CDATA[YOUR DRIVE]]></tspan>
 		</text>
 	</g>
