@@ -26,7 +26,7 @@
       <g>
         <g id="eKkDHhzw8gv3_tr" data-name="eKkDHhzw8gv3 tr">
           <circle class="cls-3" cx="100" cy="50" r="20">
-            <animateTransform accumulate="none" additive="replace" attributeName="transform" attributeType="XML" calcMode="linear" dur="2s" fill="remove" from="0" repeatCount="indefinite" restart="always" to="360" type="rotate"/>
+            <animateTransform accumulate="none" additive="replace" attributeName="transform" attributeType="XML" calcMode="linear" dur="2s" fill="remove" from="0 100 50" repeatCount="indefinite" restart="always" to="360 100 50" type="rotate"/>
           </circle>
         </g>
         <g class="cls-1">
